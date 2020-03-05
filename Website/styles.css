@@ -1,0 +1,36 @@
+h1 {
+  margin: 0 auto;
+  max-width: 10em;
+  color: #F55385;
+  font-size: 40px;
+}
+div3 {
+  font-size: 30px;
+  margin: 0 auto;
+  max-width: 30em;
+  color: #F55385;
+}
+div4 {
+  font-size: 30px;
+  margin: 0 auto;
+  max-width: 30em;
+  color: #F55385;
+}
+div {
+  color: #FFF;
+  background-color: #F55385;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+}
+p {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+}
