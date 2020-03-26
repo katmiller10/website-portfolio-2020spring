@@ -1,0 +1,71 @@
+/* navigation bar: */
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #d53369;
+  overflow: hidden;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #060202;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ff8585;
+  color: black;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #df6486;
+  color: white;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+
+/* Title */
+html {
+font-family: 'Baloo Bhai 2', cursive;
+}
+
+h2 {
+  margin-left: 400px;
+  margin-right: 400px;
+  font-size: 15px
+}
+h3 {
+  margin-left: 150px;
+  font-size: 25px
+}
+
+h4 {
+  margin-left: 300px;
+  font-size: 20px
+}
+
+img {
+  margin-left: 400px
+}
+div {
+  margin-right: 400px;
+  margin-left: 300px
+}
+
+h4{
+  margin-right: 400px
+}
