@@ -5,7 +5,12 @@
   background-color: #d53369;
   overflow: hidden;
   font-family: 'Baloo Bhai 2', cursive;
+  width: 100%;
+  position: absolute;
+  top: 0;
+
 }
+
 .topnav {
   list-style-type: none;
   margin: 0;
@@ -36,40 +41,4 @@
   background-color: #df6486;
   color: white;
   font-family: 'Baloo Bhai 2', cursive;
-}
-
-/* Title */
-html {
-font-family: 'Baloo Bhai 2', cursive;
-}
-
-h2 {
-  margin-left: 400px;
-  margin-right: 400px;
-  font-size: 20px
-}
-h3 {
-  margin-left: 150px;
-  font-size: 25px
-}
-
-h4 {
-  margin-left: 300px;
-  font-size: 20px
-}
-
-img {
-  margin-left: 400px
-}
-div {
-  margin-right: 400px;
-  margin-left: 300px
-}
-
-h4{
-  margin-right: 400px
-}
-
-img {
-  margin-left: 400px
 }
